@@ -1,4 +1,4 @@
-# System rejestracji i uwierzytelniania
+# System rejestracji i logowania
 Przykładowy system rejestracji i logowania użytkowników.
 Skrypt ten może być podstawą do tworzenia systemu uwierzytelniania.
 
