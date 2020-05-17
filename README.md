@@ -1,8 +1,8 @@
-# System rejestracji i logowania
+# System rejestracji i uwierzytelniania
 Przykładowy system rejestracji i logowania użytkowników.
 Skrypt ten może być podstawą do tworzenia systemu uwierzytelniania.
 
-# This script uselo
+# This script use
 This script use password_hash function to hash user password.
 This script use PDO Driver
 
