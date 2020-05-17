@@ -1,8 +1,10 @@
+<?php
+
 /*
 * Autor: https://programistyczny.blogspot.com
 */
 
-<?php
+
 
  class User {
  
